@@ -1,7 +1,7 @@
 # MiniTradosGo
 mini traducteur avec Go
 
-### traduire un text normal en langage sms
+### traduire un text normal en langage sms `main.go`
 
 ```go
 
