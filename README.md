@@ -33,6 +33,6 @@ func main() {
 
 Disponible en d'autres langages
 <hr>
-<a href=""> mini traducteur java </a>
-<a href="">mini traducteur python </a>
-<a href="">mini traducteur kotlin </a>
+<a href="https://github.com/samglish/traduction_francais_fulfude"> mini traducteur java </a> &nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://github.com/samglish/traduction_par_dictionnaires_python">mini traducteur python </a> &nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://github.com/samglish/mini_traducteur_kotlin">mini traducteur kotlin </a>
